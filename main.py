@@ -1,1 +1,2 @@
-print ('Olga Macko')
+print ('Olga Macko') 
+print ('Ieva Stankeviča')
