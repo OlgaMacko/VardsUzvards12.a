@@ -1,12 +1,10 @@
 
 print ('Olga Macko')
+print ('Rainers Silovs')
 
 print ('Alens Kazimirovs')  
 
-print ('Olga Macko')
-
 print ('Elizabetev Krizanovska')
-
 
 print ('Anastasija Zakrevska')    
 
