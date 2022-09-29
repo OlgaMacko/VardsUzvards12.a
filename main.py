@@ -1,6 +1,9 @@
 
 print ('Olga Macko')
 
+print ('Elizabetev Krizanovska')
+
+
 print ('Anastasija Zakrevska')    
 
 print ('Diāna Ivanova')
@@ -12,6 +15,7 @@ print ('Inese Anisimova')
 print ('Ieva Stankeviča')
 
 print('Krista Kristiāna Rinča')
+
 
 
 
