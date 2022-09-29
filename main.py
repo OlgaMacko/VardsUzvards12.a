@@ -1,5 +1,9 @@
 
 print ('Olga Macko')
+print ('Guten tag')
+
+
+print ('Olga Macko')
 
 print ('Alens Kazimirovs')  
 
