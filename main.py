@@ -1,4 +1,8 @@
 
+print ('Olga Macko')
+print ('Inese Anisimova')
+
+
 print ('Olga Macko') 
 print ('Ieva Stankeviča')
 
