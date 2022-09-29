@@ -1,5 +1,8 @@
 
 print ('Olga Macko')
+
+print ('Anastasija Zakrevska')    
+
 print ('Diāna Ivanova')
 
 print ('Anete Marija')
